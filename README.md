@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋! My name is Abdellah and I'm a 27 from France</h1>
 
 ###
@@ -65,6 +65,5 @@
 
 ###
 =======
-# Abdellah
-My personal Profile
->>>>>>> 02bca5f4848b3473cba499bf9d782e4d69a3276a
+
+
