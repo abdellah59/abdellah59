@@ -6,7 +6,9 @@
 
 ###
 
-<h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. <br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. <br>Always learning and sharing my journey! ✨</h3>
+<h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. 
+<br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. 
+<br>Always learning and sharing my journey! ✨</h3>
 
 ###
 
@@ -21,9 +23,6 @@
   </a>
   <a href="https://x.com/Aitabdell59" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/abdell5961/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
   </a>
 </div>
 
