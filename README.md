@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="200" src="https://github.com/abdellah59/abdellah59/blob/main/github-header-image.png" />
+  <img height="150" src="https://github.com/abdellah59/abdellah59/blob/main/github-header-image.png" />
 </div>
+ 
 
-
-###a
+###
 
 <h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. 
 <br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. 
