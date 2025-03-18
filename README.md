@@ -2,16 +2,13 @@
   <img height="150" src="https://github.com/abdellah59/abdellah59/blob/main/github-header-image.png" />
 </div>
  
-
 ###
 
 <h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. 
 <br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. 
 <br>Always learning and sharing my journey! ✨</h3>
 
-### 📫 Contact Me on Social Media :
-
-###
+<h2 align="left">📫 Contact Me on Social Media :</h2>
 
 <div align="center">
   <a href="https://discord.com/users/abdellah_59" target="_blank">
@@ -29,9 +26,6 @@
 
 <h2 align="left">🧑‍💻 About Me :</h2>
 
-###
-
-<br clear="both">
 
 <h4 align="left">🚀 Passionate about web development<br><br>    🌱 Actively training to master front-end and back-end technologies.<br><br>    💻 Always eager to explore new technologies and improve my web development skills.<br><br>    📚 I enjoy sharing knowledge and participating in open-source projects to grow within the developer community.<br><br>    ⚡ Fun fact: I keep night shift swithed on at all times</h4>
 
@@ -42,8 +36,6 @@
 <h2 align="left">💻 Software and Tools :</h2>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
@@ -93,7 +85,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img height="30" src="https://visitor-badge.laobi.icu/badge?page_id=abdellah59.abdellah59&"  />
