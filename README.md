@@ -9,9 +9,7 @@
 <br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. 
 <br>Always learning and sharing my journey! ✨</h3>
 
-###
-
-<h2 align="left">📫 Contact Me on Social Media :</h2>
+### 📫 Contact Me on Social Media :
 
 ###
 
