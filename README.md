@@ -96,6 +96,10 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdellah59.abdellah59&"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdellah59&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="156" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah59&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -105,6 +109,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=abdellah59&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah59&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdellah59.abdellah59&"  />
 </div>
 
 ###
