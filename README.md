@@ -4,9 +4,9 @@
  
 ###
 
-<h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. 
-<br>I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. 
-<br>Always learning and sharing my journey! ✨</h3>
+<h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. </h3>
+
+<h2 align="center">Always learning and sharing my journey! ✨
 
 <h2 align="left">📫 Contact Me on Social Media :</h2>
 
@@ -101,5 +101,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=abdellah59&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah59&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Abdellah59/pacman-animation/output/pacman-contribution-graph.svg)
 
 ###
