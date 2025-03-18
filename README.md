@@ -102,6 +102,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah59&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Abdellah59/pacman-animation/output/pacman-contribution-graph.svg)
+_<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with [abdellah59/pacman-contribution-graph](https://abdellah59.github.io/pacman-contribution-graph/)_
 
 ###
