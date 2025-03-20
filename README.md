@@ -1,11 +1,10 @@
 
 _<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: ldark)" srcset="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abdellah59/abdellah59/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abdellah59/pacman-contribution-graph](https://abdellah59.github.io/pacman-contribution-graph/)_
 
 
 <div align="center">
