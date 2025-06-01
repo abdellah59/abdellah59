@@ -50,7 +50,7 @@ _<picture>
 
 ###
 
-<h3 align="left">Versionning 📝 :</h3>
+<h3 align="center">Versionning 📝 :</h3>
 
 ###
 
@@ -62,7 +62,21 @@ _<picture>
 
 ###
 
-<h3 align="left">Front-End :</h3>
+<h3 align="center">Front-End :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="jvs logo"  />
+</div>
+
+###
+
+<h3 align="center">Tools 🛠️ :</h3>
 
 ###
 
@@ -74,7 +88,7 @@ _<picture>
 
 ###
 
-<h3 align="left">Others 💻 :</h3>
+<h3 align="center">Others 💻 :</h3>
 
 ###
 
