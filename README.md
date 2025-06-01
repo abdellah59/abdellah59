@@ -13,7 +13,7 @@ _<picture>
  
 ###
 
-<h3 align="center">I’m a young web developer in training 🚀, passionate about coding and creating digital experiences 💻. I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. </h3>
+<h3 align="center">I’m a young web developer, passionate about coding and creating digital experiences 💻. I specialize in front-end integration, turning designs into smooth, interactive sites 🌐, while exploring back-end development to expand my skills 🔧. </h3>
 
 <h2 align="center">Always learning and sharing my journey! ✨
 
@@ -42,7 +42,7 @@ _<picture>
 
 <br clear="both">
 
-<h2 align="left">💻 Software and Tools :</h2>
+<h2 align="left">💻 Tech Stack and Tools :</h2>
 
 ###
 
@@ -62,7 +62,7 @@ _<picture>
 
 ###
 
-<h3 align="left">Tools 🛠️ :</h3>
+<h3 align="left">Front-End :</h3>
 
 ###
 
